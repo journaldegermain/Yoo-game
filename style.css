@@ -1,0 +1,19 @@
+/* style.css */
+body {
+    background: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#ui {
+    margin-bottom: 10px;
+}
+canvas {
+    background: #444;
+    border: 2px solid white;
+}
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 5px;
+}
